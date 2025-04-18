@@ -31,6 +31,8 @@ Pueden ver una vista previa del notebook [aquí](dataEngineerCodingChallenge.ipy
 
 ## Visualization Bitcoin: 5-day Moving Average
 *Nota: Se toma el periodo del año 2025 dado que la versión demo solo permite la consulta de máximo 365 días de historia.*
+
+
 ![Alt text](5dayAVGplot.jpg)
 ### Data Analysis 
 
